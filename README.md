@@ -39,8 +39,8 @@ A machine learning web application that predicts a student's **Mathematics Score
 ```text
 mlproject/
 │
-├── app.py                     # Flask application
-├── application.py             # Model training entry point
+├── app.py                    
+├── application.py            
 ├── requirements.txt
 ├── setup.py
 ├── README.md
